@@ -4,7 +4,7 @@ let handler = async (m) => {
 
 let stc = fs.readFileSync('./src/virtex.js')
 
-conn.fakeReply(m.chat, stc, '0@s.whatsapp.net', '*🗿*', 'status@broadcast')
+conn.fakeReply(m.chat, stc, '0@s.whatsapp.net', '🗿', 'status@broadcast')
 
 }
 
