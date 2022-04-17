@@ -1,7 +1,13 @@
 {
-  "name": "RadBotZ",
-  "description": "WhatsApp Bot",
-  "repository": "https://github.com/Drz103/Bot16",
+
+  "name": "NanzzBotz",
+
+  "description": "Customizable WhatsApp Bot",
+
+  "repository": "https://github.com/Nanzz681/s",
+
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "wabot", "epic rpg"]
+
 }
