@@ -9,9 +9,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot"]
 
     "repository": "https://github.com/Nanzz681/s",
-
-{
-
+  
   "buildpacks": [   
 
     {
